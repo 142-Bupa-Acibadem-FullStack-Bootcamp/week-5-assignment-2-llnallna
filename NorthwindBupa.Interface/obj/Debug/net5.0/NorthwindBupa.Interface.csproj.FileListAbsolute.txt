@@ -1,0 +1,45 @@
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.Interface\obj\Debug\net5.0\NorthwindBupa.Interface.csproj.AssemblyReference.cache
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.Interface\obj\Debug\net5.0\NorthwindBupa.Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.Interface\obj\Debug\net5.0\NorthwindBupa.Interface.AssemblyInfoInputs.cache
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.Interface\obj\Debug\net5.0\NorthwindBupa.Interface.AssemblyInfo.cs
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.Interface\obj\Debug\net5.0\NorthwindBupa.Interface.csproj.CoreCompileInputs.cache
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.Interface\bin\Debug\net5.0\NorthwindBupa.Interface.deps.json
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.Interface\bin\Debug\net5.0\NorthwindBupa.Interface.dll
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.Interface\bin\Debug\net5.0\ref\NorthwindBupa.Interface.dll
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.Interface\bin\Debug\net5.0\NorthwindBupa.Interface.pdb
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.Interface\bin\Debug\net5.0\NorthwindBupa.Entity.dll
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.Interface\bin\Debug\net5.0\NorthwindBupa.Entity.pdb
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.Interface\obj\Debug\net5.0\NorthwindBupa.Interface.csproj.CopyComplete
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.Interface\obj\Debug\net5.0\NorthwindBupa.Interface.dll
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.Interface\obj\Debug\net5.0\ref\NorthwindBupa.Interface.dll
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.Interface\obj\Debug\net5.0\NorthwindBupa.Interface.pdb
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Interface\bin\Debug\net5.0\NorthwindBupa.Interface.deps.json
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Interface\bin\Debug\net5.0\NorthwindBupa.Interface.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Interface\bin\Debug\net5.0\ref\NorthwindBupa.Interface.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Interface\bin\Debug\net5.0\NorthwindBupa.Interface.pdb
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Interface\bin\Debug\net5.0\NorthwindBupa.Entity.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Interface\bin\Debug\net5.0\NorthwindBupa.Entity.pdb
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Interface\obj\Debug\net5.0\NorthwindBupa.Interface.csproj.AssemblyReference.cache
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Interface\obj\Debug\net5.0\NorthwindBupa.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Interface\obj\Debug\net5.0\NorthwindBupa.Interface.AssemblyInfoInputs.cache
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Interface\obj\Debug\net5.0\NorthwindBupa.Interface.AssemblyInfo.cs
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Interface\obj\Debug\net5.0\NorthwindBupa.Interface.csproj.CoreCompileInputs.cache
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Interface\obj\Debug\net5.0\NorthwindBupa.Interface.csproj.CopyComplete
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Interface\obj\Debug\net5.0\NorthwindBupa.Interface.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Interface\obj\Debug\net5.0\ref\NorthwindBupa.Interface.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Interface\obj\Debug\net5.0\NorthwindBupa.Interface.pdb
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Interface\obj\Debug\net5.0\NorthwindBupa.Interface.csproj.AssemblyReference.cache
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Interface\obj\Debug\net5.0\NorthwindBupa.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Interface\obj\Debug\net5.0\NorthwindBupa.Interface.AssemblyInfoInputs.cache
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Interface\obj\Debug\net5.0\NorthwindBupa.Interface.AssemblyInfo.cs
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Interface\obj\Debug\net5.0\NorthwindBupa.Interface.csproj.CoreCompileInputs.cache
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Interface\obj\Debug\net5.0\NorthwindBupa.Interface.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Interface\obj\Debug\net5.0\ref\NorthwindBupa.Interface.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Interface\obj\Debug\net5.0\NorthwindBupa.Interface.pdb
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Interface\bin\Debug\net5.0\NorthwindBupa.Interface.deps.json
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Interface\bin\Debug\net5.0\NorthwindBupa.Interface.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Interface\bin\Debug\net5.0\ref\NorthwindBupa.Interface.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Interface\bin\Debug\net5.0\NorthwindBupa.Interface.pdb
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Interface\bin\Debug\net5.0\NorthwindBupa.Entity.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Interface\bin\Debug\net5.0\NorthwindBupa.Entity.pdb
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Interface\obj\Debug\net5.0\NorthwindBupa.Interface.csproj.CopyComplete

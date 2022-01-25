@@ -1,0 +1,43 @@
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.Entity\bin\Debug\net5.0\NorthwindBupa.Entity.deps.json
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.Entity\bin\Debug\net5.0\NorthwindBupa.Entity.runtimeconfig.json
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.Entity\bin\Debug\net5.0\NorthwindBupa.Entity.runtimeconfig.dev.json
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.Entity\bin\Debug\net5.0\NorthwindBupa.Entity.dll
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.Entity\bin\Debug\net5.0\ref\NorthwindBupa.Entity.dll
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.Entity\bin\Debug\net5.0\NorthwindBupa.Entity.pdb
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.Entity\obj\Debug\net5.0\NorthwindBupa.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.Entity\obj\Debug\net5.0\NorthwindBupa.Entity.AssemblyInfoInputs.cache
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.Entity\obj\Debug\net5.0\NorthwindBupa.Entity.AssemblyInfo.cs
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.Entity\obj\Debug\net5.0\NorthwindBupa.Entity.csproj.CoreCompileInputs.cache
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.Entity\obj\Debug\net5.0\NorthwindBupa.Entity.dll
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.Entity\obj\Debug\net5.0\ref\NorthwindBupa.Entity.dll
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.Entity\obj\Debug\net5.0\NorthwindBupa.Entity.pdb
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.Entity\obj\Debug\net5.0\NorthwindBupa.Entity.genruntimeconfig.cache
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Entity\bin\Debug\net5.0\NorthwindBupa.Entity.deps.json
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Entity\bin\Debug\net5.0\NorthwindBupa.Entity.runtimeconfig.json
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Entity\bin\Debug\net5.0\NorthwindBupa.Entity.runtimeconfig.dev.json
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Entity\bin\Debug\net5.0\NorthwindBupa.Entity.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Entity\bin\Debug\net5.0\ref\NorthwindBupa.Entity.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Entity\bin\Debug\net5.0\NorthwindBupa.Entity.pdb
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Entity\obj\Debug\net5.0\NorthwindBupa.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Entity\obj\Debug\net5.0\NorthwindBupa.Entity.AssemblyInfoInputs.cache
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Entity\obj\Debug\net5.0\NorthwindBupa.Entity.AssemblyInfo.cs
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Entity\obj\Debug\net5.0\NorthwindBupa.Entity.csproj.CoreCompileInputs.cache
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Entity\obj\Debug\net5.0\NorthwindBupa.Entity.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Entity\obj\Debug\net5.0\ref\NorthwindBupa.Entity.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Entity\obj\Debug\net5.0\NorthwindBupa.Entity.pdb
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Entity\obj\Debug\net5.0\NorthwindBupa.Entity.genruntimeconfig.cache
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Entity\obj\Debug\net5.0\NorthwindBupa.Entity.csproj.AssemblyReference.cache
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Entity\obj\Debug\net5.0\NorthwindBupa.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Entity\obj\Debug\net5.0\NorthwindBupa.Entity.AssemblyInfoInputs.cache
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Entity\obj\Debug\net5.0\NorthwindBupa.Entity.AssemblyInfo.cs
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Entity\obj\Debug\net5.0\NorthwindBupa.Entity.csproj.CoreCompileInputs.cache
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Entity\obj\Debug\net5.0\NorthwindBupa.Entity.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Entity\obj\Debug\net5.0\ref\NorthwindBupa.Entity.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Entity\obj\Debug\net5.0\NorthwindBupa.Entity.pdb
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Entity\bin\Debug\net5.0\NorthwindBupa.Entity.deps.json
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Entity\bin\Debug\net5.0\NorthwindBupa.Entity.runtimeconfig.json
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Entity\bin\Debug\net5.0\NorthwindBupa.Entity.runtimeconfig.dev.json
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Entity\bin\Debug\net5.0\NorthwindBupa.Entity.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Entity\bin\Debug\net5.0\ref\NorthwindBupa.Entity.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Entity\bin\Debug\net5.0\NorthwindBupa.Entity.pdb
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Entity\obj\Debug\net5.0\NorthwindBupa.Entity.genruntimeconfig.cache

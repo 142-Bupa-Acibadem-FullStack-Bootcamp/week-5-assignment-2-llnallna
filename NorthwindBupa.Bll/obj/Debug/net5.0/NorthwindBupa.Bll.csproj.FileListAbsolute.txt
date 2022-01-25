@@ -1,0 +1,49 @@
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.Bll\bin\Debug\net5.0\NorthwindBupa.Bll.deps.json
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.Bll\bin\Debug\net5.0\NorthwindBupa.Bll.dll
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.Bll\bin\Debug\net5.0\ref\NorthwindBupa.Bll.dll
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.Bll\bin\Debug\net5.0\NorthwindBupa.Bll.pdb
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.Bll\obj\Debug\net5.0\NorthwindBupa.Bll.GeneratedMSBuildEditorConfig.editorconfig
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.Bll\obj\Debug\net5.0\NorthwindBupa.Bll.AssemblyInfoInputs.cache
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.Bll\obj\Debug\net5.0\NorthwindBupa.Bll.AssemblyInfo.cs
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.Bll\obj\Debug\net5.0\NorthwindBupa.Bll.csproj.CoreCompileInputs.cache
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.Bll\obj\Debug\net5.0\NorthwindBupa.Bll.dll
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.Bll\obj\Debug\net5.0\ref\NorthwindBupa.Bll.dll
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.Bll\obj\Debug\net5.0\NorthwindBupa.Bll.pdb
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Bll\obj\Debug\net5.0\NorthwindBupa.Bll.csproj.AssemblyReference.cache
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Bll\obj\Debug\net5.0\NorthwindBupa.Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Bll\obj\Debug\net5.0\NorthwindBupa.Bll.AssemblyInfoInputs.cache
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Bll\obj\Debug\net5.0\NorthwindBupa.Bll.AssemblyInfo.cs
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Bll\obj\Debug\net5.0\NorthwindBupa.Bll.csproj.CoreCompileInputs.cache
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Bll\obj\Debug\net5.0\NorthwindBupa.Bll.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Bll\obj\Debug\net5.0\ref\NorthwindBupa.Bll.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Bll\obj\Debug\net5.0\NorthwindBupa.Bll.pdb
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Bll\bin\Debug\net5.0\NorthwindBupa.Bll.deps.json
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Bll\bin\Debug\net5.0\NorthwindBupa.Bll.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Bll\bin\Debug\net5.0\ref\NorthwindBupa.Bll.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Bll\bin\Debug\net5.0\NorthwindBupa.Bll.pdb
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Bll\bin\Debug\net5.0\NorthwindBupa.Dal.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Bll\bin\Debug\net5.0\NorthwindBupa.Entity.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Bll\bin\Debug\net5.0\NorthwindBupa.Interface.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Bll\bin\Debug\net5.0\NorthwindBupa.Dal.pdb
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Bll\bin\Debug\net5.0\NorthwindBupa.Interface.pdb
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Bll\bin\Debug\net5.0\NorthwindBupa.Entity.pdb
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.Bll\obj\Debug\net5.0\NorthwindBupa.Bll.csproj.CopyComplete
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Bll\obj\Debug\net5.0\NorthwindBupa.Bll.csproj.AssemblyReference.cache
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Bll\obj\Debug\net5.0\NorthwindBupa.Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Bll\obj\Debug\net5.0\NorthwindBupa.Bll.AssemblyInfoInputs.cache
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Bll\obj\Debug\net5.0\NorthwindBupa.Bll.AssemblyInfo.cs
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Bll\obj\Debug\net5.0\NorthwindBupa.Bll.csproj.CoreCompileInputs.cache
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Bll\obj\Debug\net5.0\NorthwindBupa.Bll.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Bll\obj\Debug\net5.0\ref\NorthwindBupa.Bll.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Bll\obj\Debug\net5.0\NorthwindBupa.Bll.pdb
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Bll\bin\Debug\net5.0\NorthwindBupa.Bll.deps.json
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Bll\bin\Debug\net5.0\NorthwindBupa.Bll.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Bll\bin\Debug\net5.0\ref\NorthwindBupa.Bll.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Bll\bin\Debug\net5.0\NorthwindBupa.Bll.pdb
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Bll\bin\Debug\net5.0\NorthwindBupa.Dal.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Bll\bin\Debug\net5.0\NorthwindBupa.Entity.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Bll\bin\Debug\net5.0\NorthwindBupa.Interface.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Bll\bin\Debug\net5.0\NorthwindBupa.Dal.pdb
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Bll\bin\Debug\net5.0\NorthwindBupa.Interface.pdb
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Bll\bin\Debug\net5.0\NorthwindBupa.Entity.pdb
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.Bll\obj\Debug\net5.0\NorthwindBupa.Bll.csproj.CopyComplete

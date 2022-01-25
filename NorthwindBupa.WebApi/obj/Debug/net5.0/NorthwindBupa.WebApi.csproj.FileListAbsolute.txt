@@ -1,0 +1,166 @@
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.WebApi\bin\Debug\net5.0\appsettings.Development.json
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.WebApi\bin\Debug\net5.0\appsettings.json
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.WebApi\bin\Debug\net5.0\NorthwindBupa.WebApi.exe
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.WebApi\bin\Debug\net5.0\NorthwindBupa.WebApi.deps.json
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.WebApi\bin\Debug\net5.0\NorthwindBupa.WebApi.runtimeconfig.json
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.WebApi\bin\Debug\net5.0\NorthwindBupa.WebApi.runtimeconfig.dev.json
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.WebApi\bin\Debug\net5.0\NorthwindBupa.WebApi.dll
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.WebApi\bin\Debug\net5.0\ref\NorthwindBupa.WebApi.dll
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.WebApi\bin\Debug\net5.0\NorthwindBupa.WebApi.pdb
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.WebApi\obj\Debug\net5.0\NorthwindBupa.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.WebApi\obj\Debug\net5.0\NorthwindBupa.WebApi.AssemblyInfoInputs.cache
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.WebApi\obj\Debug\net5.0\NorthwindBupa.WebApi.AssemblyInfo.cs
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.WebApi\obj\Debug\net5.0\NorthwindBupa.WebApi.csproj.CoreCompileInputs.cache
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.WebApi\obj\Debug\net5.0\NorthwindBupa.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.WebApi\obj\Debug\net5.0\NorthwindBupa.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.WebApi\obj\Debug\net5.0\scopedcss\bundle\NorthwindBupa.WebApi.styles.css
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.WebApi\obj\Debug\net5.0\staticwebassets\NorthwindBupa.WebApi.StaticWebAssets.Manifest.cache
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.WebApi\obj\Debug\net5.0\NorthwindBupa.WebApi.RazorTargetAssemblyInfo.cache
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.WebApi\obj\Debug\net5.0\NorthwindBupa.WebApi.csproj.CopyComplete
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.WebApi\obj\Debug\net5.0\NorthwindBupa.WebApi.dll
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.WebApi\obj\Debug\net5.0\ref\NorthwindBupa.WebApi.dll
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.WebApi\obj\Debug\net5.0\NorthwindBupa.WebApi.pdb
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.WebApi\obj\Debug\net5.0\NorthwindBupa.WebApi.genruntimeconfig.cache
+D:\YAZILIM_ KODLAMA\_Bupa&Acıbadem Sig. Bootcamp\proje ve calismalar\NorthwindBupa\NorthwindBupa\NorthwindBupa.WebApi\obj\Debug\net5.0\NorthwindBupa.WebApi.csproj.AssemblyReference.cache
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\obj\Debug\net5.0\NorthwindBupa.WebApi.csproj.AssemblyReference.cache
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\obj\Debug\net5.0\NorthwindBupa.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\obj\Debug\net5.0\NorthwindBupa.WebApi.AssemblyInfoInputs.cache
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\obj\Debug\net5.0\NorthwindBupa.WebApi.AssemblyInfo.cs
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\obj\Debug\net5.0\NorthwindBupa.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\obj\Debug\net5.0\NorthwindBupa.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\obj\Debug\net5.0\NorthwindBupa.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\obj\Debug\net5.0\NorthwindBupa.WebApi.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\obj\Debug\net5.0\ref\NorthwindBupa.WebApi.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\obj\Debug\net5.0\NorthwindBupa.WebApi.pdb
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\NorthwindBupa.WebApi.exe
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\NorthwindBupa.WebApi.deps.json
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\NorthwindBupa.WebApi.runtimeconfig.json
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\NorthwindBupa.WebApi.runtimeconfig.dev.json
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\NorthwindBupa.WebApi.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\ref\NorthwindBupa.WebApi.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\NorthwindBupa.WebApi.pdb
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\NorthwindBupa.Bll.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\NorthwindBupa.Dal.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\NorthwindBupa.Entity.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\NorthwindBupa.Interface.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\NorthwindBupa.Bll.pdb
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\NorthwindBupa.Dal.pdb
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\NorthwindBupa.Entity.pdb
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\NorthwindBupa.Interface.pdb
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\obj\Debug\net5.0\scopedcss\bundle\NorthwindBupa.WebApi.styles.css
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\obj\Debug\net5.0\staticwebassets\NorthwindBupa.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\obj\Debug\net5.0\NorthwindBupa.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\obj\Debug\net5.0\NorthwindBupa.WebApi.csproj.CopyComplete
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\obj\Debug\net5.0\NorthwindBupa.WebApi.genruntimeconfig.cache
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\anll\first-assignment-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\obj\Debug\net5.0\NorthwindBupa.WebApi.csproj.AssemblyReference.cache
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\obj\Debug\net5.0\NorthwindBupa.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\obj\Debug\net5.0\NorthwindBupa.WebApi.AssemblyInfoInputs.cache
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\obj\Debug\net5.0\NorthwindBupa.WebApi.AssemblyInfo.cs
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\obj\Debug\net5.0\NorthwindBupa.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\obj\Debug\net5.0\NorthwindBupa.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\obj\Debug\net5.0\NorthwindBupa.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\obj\Debug\net5.0\NorthwindBupa.WebApi.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\obj\Debug\net5.0\ref\NorthwindBupa.WebApi.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\obj\Debug\net5.0\NorthwindBupa.WebApi.pdb
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\NorthwindBupa.WebApi.exe
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\NorthwindBupa.WebApi.deps.json
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\NorthwindBupa.WebApi.runtimeconfig.json
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\NorthwindBupa.WebApi.runtimeconfig.dev.json
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\NorthwindBupa.WebApi.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\ref\NorthwindBupa.WebApi.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\NorthwindBupa.WebApi.pdb
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\NorthwindBupa.Bll.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\NorthwindBupa.Dal.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\NorthwindBupa.Entity.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\NorthwindBupa.Interface.dll
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\NorthwindBupa.Bll.pdb
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\NorthwindBupa.Dal.pdb
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\NorthwindBupa.Entity.pdb
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\bin\Debug\net5.0\NorthwindBupa.Interface.pdb
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\obj\Debug\net5.0\scopedcss\bundle\NorthwindBupa.WebApi.styles.css
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\obj\Debug\net5.0\staticwebassets\NorthwindBupa.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\obj\Debug\net5.0\NorthwindBupa.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\obj\Debug\net5.0\NorthwindBupa.WebApi.csproj.CopyComplete
+C:\Users\anll\week-5-assignment-1-llnallna\NorthwindBupa.WebApi\obj\Debug\net5.0\NorthwindBupa.WebApi.genruntimeconfig.cache
